@@ -1,0 +1,26 @@
+{
+  "name": "@adaptive/hello",
+  "version": "0.1.0",
+  "description": "Basic Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adaptive/hello.git"
+  },
+  "keywords": [
+    "npm",
+    "hello"
+  ],
+  "author": "Hugo Romano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adaptive/hello/issues"
+  },
+  "homepage": "https://github.com/adaptive/hello#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
