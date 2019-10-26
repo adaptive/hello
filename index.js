@@ -1,3 +1,1 @@
-export default (str='') => {
-    return `Hello World ${str}`;
-}
+module.exports = (str) => `Hello World ${str}`
